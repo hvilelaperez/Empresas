@@ -66,6 +66,10 @@
 
 **Impacto:** 95% reducción en tiempo de generación, cero inconsistencias.
 
+![OrAiFlow Preview](./OrAiFlow.png)
+
+![OrAiFlow Demo](./OrAiFlow.gif)
+
 ---
 
 ### 2. DentalSkan – Sistema de Gestión Clínica Dental
