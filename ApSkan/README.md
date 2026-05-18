@@ -88,17 +88,3 @@
 **Pendiente:** Conexión con Prisma + PostgreSQL (schema definido, actualmente localStorage).
 
 ---
-
-## 📊 Resumen Rápido para Entrevista o CV
-
-| Categoría | Tecnologías Clave |
-|-----------|-------------------|
-| **Stack principal** | Next.js 16, React 19, TypeScript 5, Tailwind, shadcn/ui |
-| **Estado y datos** | Zustand, TanStack Query, Prisma, SQLite, PostgreSQL |
-| **IA y orquestación** | OpenRouter, NVIDIA, DeepSeek, Engram, MCP |
-| **Autenticación** | Clerk |
-| **Visualización** | D3.js, DC.js, Crossfilter |
-| **DevOps** | GitHub Actions, Git Worktrees |
-| **Metodologías** | SDD, OWASP, Ingeniería de Contexto |
-
----
