@@ -89,6 +89,8 @@
 | CMR (Clientes potenciales) | 🔄 En desarrollo | Media |
 | Treatments (catálogo) | ⏳ Por iniciar | Baja |
 
+![DentalSkan Demo](./DentalSkan.gif)
+
 **Pendiente:** Conexión con Prisma + PostgreSQL (schema definido, actualmente localStorage).
 
 ---
